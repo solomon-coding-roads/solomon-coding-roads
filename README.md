@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Currently studying software development, focusing on languages such as python.<br>Worked on text based systems to design projects and software systems as part of college projetcs.
 
 
